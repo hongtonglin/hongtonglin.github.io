@@ -1,0 +1,8 @@
+name: "Yay internet!"
+output_dir: "."
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
+    includes:
+      in_header: header.html

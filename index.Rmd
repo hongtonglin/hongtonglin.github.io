@@ -1,0 +1,17 @@
+---
+title: "Welcome"
+output: 
+  prettydoc::html_pretty:
+    theme: leonids
+---
+
+# Hi!  
+
+I'm Hongtong, and I'm currently a first-year M.S. student in Biostatistics with the public health data science track  
+
+This is a sample personal website but for P8105 homework 4.  
+
+Will be developing my personal website from now on!  
+  
+<p align="center">
+<img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVoODFjOWR1cWxrc3gwN29obGxzb3l3enNyNGtqeHh4dndkbzkyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZSC7Padc60Irbs24gd/giphy.gif">
